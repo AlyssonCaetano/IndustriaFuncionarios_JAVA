@@ -68,5 +68,5 @@ Sinta-se à vontade para contribuir com melhorias e novas funcionalidades. Basta
 5. Abrir um **Pull Request**!
 
 ## ✨ Autor
-Projeto desenvolvido por **[Seu Nome](https://github.com/seu-usuario)**.
+Projeto desenvolvido por **[Caetano](https://github.com/alyssoncaetano)**.
 
